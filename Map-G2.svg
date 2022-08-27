@@ -4749,7 +4749,21 @@
 			C550.5,663.2,550.3,663.2,550.2,662.9L550.2,662.9z M549.2,661.7c0-0.2-0.1-0.4-0.2-0.5c0-0.1-0.1-0.1-0.1-0.1
 			c-0.5,0.4-0.6,0.8-0.5,1.1c0.1,0.2,0.4,0.3,0.7,0.3C549.3,662.2,549.3,662,549.2,661.7z"/>
 	</g>
-	<text transform="matrix(1 0 0 1 898.7451 120.9706)" fill="#C1C1C1" font-family="'Leelawadee'" font-size="100px">G2</text>
+	<g enable-background="new    ">
+		<path fill="#C1C1C1" d="M960.27,116.19c-7.03,3.97-14.84,5.96-23.44,5.96c-9.99,0-18.07-3.22-24.24-9.67
+			c-6.17-6.45-9.25-14.97-9.25-25.59c0-10.84,3.43-19.73,10.28-26.68c6.85-6.95,15.54-10.42,26.05-10.42
+			c7.62,0,14.01,1.24,19.19,3.71v9.08c-5.66-3.58-12.37-5.37-20.12-5.37c-7.85,0-14.27,2.7-19.29,8.11c-5.01,5.4-7.52,12.4-7.52,21
+			c0,8.85,2.33,15.81,6.98,20.87c4.65,5.06,10.97,7.59,18.95,7.59c5.47,0,10.21-1.09,14.21-3.27V91.87h-15.33v-7.42h23.54V116.19z"
+			/>
+		<path fill="#C1C1C1" d="M1005.04,69.31c0-2.15-0.33-4.02-1-5.62c-0.67-1.59-1.58-2.92-2.73-3.98c-1.16-1.06-2.51-1.85-4.08-2.37
+			c-1.56-0.52-3.25-0.78-5.08-0.78c-1.56,0-3.09,0.21-4.59,0.63c-1.5,0.42-2.95,1.01-4.37,1.76c-1.42,0.75-2.78,1.64-4.1,2.69
+			c-1.32,1.04-2.55,2.2-3.69,3.47v-8.59c2.25-2.18,4.76-3.85,7.54-5c2.78-1.16,6.18-1.73,10.18-1.73c2.86,0,5.52,0.42,7.96,1.25
+			s4.56,2.04,6.35,3.64c1.79,1.6,3.2,3.56,4.22,5.91s1.54,5.03,1.54,8.06c0,2.77-0.32,5.27-0.95,7.52s-1.6,4.36-2.88,6.35
+			c-1.29,1.99-2.91,3.89-4.86,5.71c-1.95,1.82-4.25,3.68-6.88,5.57c-3.29,2.34-6,4.35-8.13,6.01c-2.13,1.66-3.83,3.21-5.08,4.66
+			c-1.25,1.45-2.13,2.9-2.64,4.35c-0.5,1.45-0.76,3.12-0.76,5h34.86v7.18h-43.21v-3.47c0-2.99,0.33-5.63,0.98-7.91
+			c0.65-2.28,1.73-4.44,3.22-6.49s3.46-4.1,5.88-6.15c2.42-2.05,5.4-4.36,8.91-6.93c2.54-1.82,4.66-3.56,6.37-5.22
+			s3.08-3.32,4.13-4.98s1.78-3.34,2.22-5.05S1005.04,71.23,1005.04,69.31z"/>
+	</g>
 </g>
 <g id="nopointer-icons">
 	<g>
@@ -5097,20 +5111,21 @@
 			L154.8,350.5z M155.4,347.6h0.4l0.3,2H155L155.4,347.6z M156.4,350.5L156.4,350.5L156.4,350.5L156.4,350.5z"/>
 	</g>
 	<g id="N">
-		<path fill="none" stroke="#000000" stroke-width="6" stroke-linejoin="bevel" stroke-miterlimit="10" d="M1660.71,160
+		<path fill="none" stroke="#E5560E" stroke-width="6" stroke-linejoin="bevel" stroke-miterlimit="10" d="M1660.71,160
 			c27.29-0.35,49.29-20.64,49.29-45.61"/>
-		<path fill="none" stroke="#000000" stroke-width="6" stroke-linejoin="bevel" stroke-miterlimit="10" d="M1610,114.38
+		<path fill="none" stroke="#E5560E" stroke-width="6" stroke-linejoin="bevel" stroke-miterlimit="10" d="M1610,114.38
 			c0,24.88,21.83,45.11,48.97,45.61l0,0"/>
-		<path fill="none" stroke="#000000" stroke-width="6" stroke-linejoin="bevel" stroke-miterlimit="10" d="M1650.47,69.59
+		<path fill="none" stroke="#E5560E" stroke-width="6" stroke-linejoin="bevel" stroke-miterlimit="10" d="M1650.47,69.59
 			c-21.74,3.83-38.46,20.5-40.3,41.02"/>
-		<path fill="none" stroke="#000000" stroke-width="6" stroke-linejoin="bevel" stroke-miterlimit="10" d="M1709.83,110.62
+		<path fill="none" stroke="#E5560E" stroke-width="6" stroke-linejoin="bevel" stroke-miterlimit="10" d="M1709.83,110.62
 			c-1.85-20.71-18.87-37.5-40.91-41.13"/>
-		<text transform="matrix(1.096 0 0 1 1653.1377 76.1224)" font-family="'ArialMT'" font-size="18.7874px">N</text>
 		
-			<text transform="matrix(1.096 0 0 1 1653.1377 76.1224)" fill="none" stroke="#000000" stroke-miterlimit="10" font-family="'ArialMT'" font-size="18.7874px">N</text>
-		<polygon stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			<text transform="matrix(1.096 0 0 1 1653.1377 76.1224)" stroke="#EC6530" stroke-miterlimit="10" font-family="'ArialMT'" font-size="18.7874px">N</text>
+		
+			<text transform="matrix(1.096 0 0 1 1653.1377 76.1224)" fill="none" stroke="#EC6530" stroke-miterlimit="10" font-family="'ArialMT'" font-size="18.7874px">N</text>
+		<polygon stroke="#E54615" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
 			1659.84,82.88 1638.54,140.44 1659.84,131.16 		"/>
-		<polygon fill="#C1C1C1" stroke="#000000" stroke-width="3" stroke-linejoin="round" stroke-miterlimit="10" points="
+		<polygon fill="#F7F5F5" stroke="#EC6530" stroke-width="3" stroke-linejoin="round" stroke-miterlimit="10" points="
 			1659.84,82.88 1681.13,140.44 1659.84,131.16 		"/>
 	</g>
 </g>
