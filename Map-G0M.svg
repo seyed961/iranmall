@@ -113,9 +113,9 @@
 	
 		<line id="p-loc-t2" fill="none" stroke="#C60000" stroke-width="3" stroke-miterlimit="10" x1="1452.47" y1="327.41" x2="1440.81" y2="327.41"/>
 	
-		<line id="pf-loc-escalator" fill="none" stroke="#C60000" stroke-width="3" stroke-miterlimit="10" x1="1541.55" y1="563.69" x2="1529.22" y2="563.99"/>
+		<line id="pf-escalator2" fill="none" stroke="#C60000" stroke-width="3" stroke-miterlimit="10" x1="1541.55" y1="563.69" x2="1529.22" y2="563.99"/>
 	
-		<line id="pf-loc-escalator_00000062185022687404680940000005728294834619230123_" fill="none" stroke="#C60000" stroke-width="3" stroke-miterlimit="10" x1="1417.79" y1="361.36" x2="1405.35" y2="361.67"/>
+		<line id="pf-escalator1" fill="none" stroke="#C60000" stroke-width="3" stroke-miterlimit="10" x1="1417.79" y1="361.36" x2="1405.35" y2="361.67"/>
 	
 		<line id="p-loc-noname" fill="none" stroke="#C60000" stroke-width="3" stroke-miterlimit="10" x1="1033.52" y1="501.52" x2="1016.38" y2="501.52"/>
 	

@@ -306,21 +306,21 @@
 	
 		<line id="p-loc-elev4" fill="none" stroke="#C60000" stroke-width="3" stroke-miterlimit="10" x1="467.09" y1="565.41" x2="469.05" y2="574.06"/>
 	
-		<line id="pf-elevator1" fill="none" stroke="#C60000" stroke-width="3" stroke-miterlimit="10" x1="920.33" y1="546.76" x2="923.87" y2="558.23"/>
+		<line id="pf-elevator2" fill="none" stroke="#C60000" stroke-width="3" stroke-miterlimit="10" x1="920.33" y1="546.76" x2="923.87" y2="558.23"/>
 	
 		<line id="p-loc-elev6" fill="none" stroke="#C60000" stroke-width="3" stroke-miterlimit="10" x1="782.77" y1="293.3" x2="781.03" y2="286.63"/>
 	
 		<line id="p-loc-elev7" fill="none" stroke="#C60000" stroke-width="3" stroke-miterlimit="10" x1="1027.17" y1="284.47" x2="1024.3" y2="278.2"/>
 	
-		<line id="pf-elevator2_00000147907952811972312220000017978797446599983498_" fill="none" stroke="#C60000" stroke-width="3" stroke-miterlimit="10" x1="1123.76" y1="543.84" x2="1126.24" y2="551.97"/>
+		<line id="pf-elevator1" fill="none" stroke="#C60000" stroke-width="3" stroke-miterlimit="10" x1="1123.76" y1="543.84" x2="1126.24" y2="551.97"/>
 	
 		<line id="p-esc10" fill="none" stroke="#C60000" stroke-width="3" stroke-miterlimit="10" x1="257.11" y1="314.67" x2="256.01" y2="307.26"/>
 	
 		<line id="p-loc-esca2" fill="none" stroke="#C60000" stroke-width="3" stroke-miterlimit="10" x1="439.34" y1="581.81" x2="450.7" y2="580.41"/>
 	
-		<line id="pf-escalator1_00000017509038496114861650000003452175048125122944_" fill="none" stroke="#C60000" stroke-width="3" stroke-miterlimit="10" x1="950.67" y1="547.93" x2="953.34" y2="557.21"/>
+		<line id="pf-escalator2" fill="none" stroke="#C60000" stroke-width="3" stroke-miterlimit="10" x1="950.67" y1="547.93" x2="953.34" y2="557.21"/>
 	
-		<line id="pf-escalator2" fill="none" stroke="#C60000" stroke-width="3" stroke-miterlimit="10" x1="1145.95" y1="539" x2="1147.23" y2="551.28"/>
+		<line id="pf-escalator1" fill="none" stroke="#C60000" stroke-width="3" stroke-miterlimit="10" x1="1145.95" y1="539" x2="1147.23" y2="551.28"/>
 	
 		<line id="p-loc-esca5" fill="none" stroke="#C60000" stroke-width="3" stroke-miterlimit="10" x1="982.21" y1="290.6" x2="980.85" y2="279.7"/>
 	

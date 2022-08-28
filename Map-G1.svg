@@ -37,17 +37,17 @@
 	
 		<line id="p-loc-vichi" fill="none" stroke="#FF0000" stroke-width="3" stroke-miterlimit="10" x1="1028.21" y1="641.65" x2="1024.38" y2="631.34"/>
 	
-		<line id="pf-escalator1" fill="none" stroke="#FF0000" stroke-width="3" stroke-miterlimit="10" x1="1045.06" y1="623.12" x2="1048.46" y2="631.08"/>
+		<line id="pf-escalator2" fill="none" stroke="#FF0000" stroke-width="3" stroke-miterlimit="10" x1="1045.06" y1="623.12" x2="1048.46" y2="631.08"/>
 	
-		<line id="pf-elevator1" fill="none" stroke="#FF0000" stroke-width="3" stroke-miterlimit="10" x1="1052.15" y1="605.8" x2="1066.53" y2="630.21"/>
+		<line id="pf-elevator2" fill="none" stroke="#FF0000" stroke-width="3" stroke-miterlimit="10" x1="1052.15" y1="605.8" x2="1066.53" y2="630.21"/>
 	
 		<line id="p-loc-terracelounge" fill="none" stroke="#FF0000" stroke-width="3" stroke-miterlimit="10" x1="1101.46" y1="637.22" x2="1098.69" y2="629.32"/>
 	
-		<line id="p-loc-aroma" fill="none" stroke="#FF0000" stroke-width="3" stroke-miterlimit="10" x1="1242.46" y1="632.12" x2="1240.97" y2="624.57"/>
+		<line id="p-loc-aroma2" fill="none" stroke="#FF0000" stroke-width="3" stroke-miterlimit="10" x1="1242.46" y1="632.12" x2="1240.97" y2="624.57"/>
 	
-		<line id="pf-escalator2" fill="none" stroke="#FF0000" stroke-width="3" stroke-miterlimit="10" x1="1262.76" y1="611.31" x2="1266.79" y2="623.72"/>
+		<line id="pf-escalator1" fill="none" stroke="#FF0000" stroke-width="3" stroke-miterlimit="10" x1="1262.76" y1="611.31" x2="1266.79" y2="623.72"/>
 	
-		<line id="pf-elevator2" fill="none" stroke="#FF0000" stroke-width="3" stroke-miterlimit="10" x1="1244.78" y1="600.62" x2="1240.97" y2="624.57"/>
+		<line id="pf-elevator1" fill="none" stroke="#FF0000" stroke-width="3" stroke-miterlimit="10" x1="1244.78" y1="600.62" x2="1240.97" y2="624.57"/>
 	
 		<line id="p-loc-talco" fill="none" stroke="#FF0000" stroke-width="3" stroke-miterlimit="10" x1="1303.34" y1="621.08" x2="1307.75" y2="630.35"/>
 	
