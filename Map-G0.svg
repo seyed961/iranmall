@@ -274,7 +274,7 @@
 	
 		<line id="p-loc-tac" fill="none" stroke="#C60000" stroke-width="3" stroke-miterlimit="10" x1="987.26" y1="335.18" x2="963.1" y2="336.73"/>
 	
-		<line id="p-loc-belarti_00000123400885705956354750000004975499293598245261_" fill="none" stroke="#C60000" stroke-width="3" stroke-miterlimit="10" x1="1420.54" y1="244.5" x2="1422.09" y2="264.97"/>
+		<line id="p-loc-belarti" fill="none" stroke="#C60000" stroke-width="3" stroke-miterlimit="10" x1="1420.54" y1="244.5" x2="1422.09" y2="264.97"/>
 	
 		<line id="p-loc-sepas" fill="none" stroke="#C60000" stroke-width="3" stroke-miterlimit="10" x1="1545.39" y1="238.8" x2="1555.89" y2="260.5"/>
 	
@@ -296,7 +296,7 @@
 	
 		<line id="p-loc-pasargadceramics" fill="none" stroke="#C60000" stroke-width="3" stroke-miterlimit="10" x1="1452.76" y1="457.7" x2="1409.64" y2="457.7"/>
 	
-		<line id="p-loc-constructionclinic_00000048496052479751003880000012827796989823877293_" fill="none" stroke="#C60000" stroke-width="3" stroke-miterlimit="10" x1="1412.57" y1="396.2" x2="1374.1" y2="396.2"/>
+		<line id="p-loc-constructionclinic" fill="none" stroke="#C60000" stroke-width="3" stroke-miterlimit="10" x1="1412.57" y1="396.2" x2="1374.1" y2="396.2"/>
 	
 		<line id="p-loc-R_and_sepehr" fill="none" stroke="#C60000" stroke-width="3" stroke-miterlimit="10" x1="1448.89" y1="284.01" x2="1439.27" y2="264.66"/>
 	

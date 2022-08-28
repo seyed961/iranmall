@@ -95,7 +95,7 @@
 	
 		<line id="p-loc-t7" fill="none" stroke="#C60000" stroke-width="3" stroke-miterlimit="10" x1="1516" y1="391.68" x2="1479.11" y2="391.68"/>
 	
-		<line id="p-loc-t6_00000157991899135018966000000002595917118840725893_" fill="none" stroke="#C60000" stroke-width="3" stroke-miterlimit="10" x1="1473.65" y1="382.53" x2="1510.28" y2="382.53"/>
+		<line id="p-loc-t6" fill="none" stroke="#C60000" stroke-width="3" stroke-miterlimit="10" x1="1473.65" y1="382.53" x2="1510.28" y2="382.53"/>
 	
 		<line id="p-loc-t5" fill="none" stroke="#C60000" stroke-width="3" stroke-miterlimit="10" x1="1476.96" y1="367.66" x2="1464.75" y2="367.66"/>
 	
@@ -105,9 +105,9 @@
 	
 		<line id="p-loc-t2" fill="none" stroke="#C60000" stroke-width="3" stroke-miterlimit="10" x1="1452.47" y1="327.41" x2="1440.81" y2="327.41"/>
 	
-		<line id="pf-loc-escalator_00000173144333866827750740000014820960656817169832_" fill="none" stroke="#C60000" stroke-width="3" stroke-miterlimit="10" x1="1541.55" y1="563.69" x2="1529.22" y2="563.99"/>
+		<line id="pf-loc-escalator" fill="none" stroke="#C60000" stroke-width="3" stroke-miterlimit="10" x1="1541.55" y1="563.69" x2="1529.22" y2="563.99"/>
 	
-		<line id="pf-loc-escalator_00000060011866042140526430000004521528537294859426_" fill="none" stroke="#C60000" stroke-width="3" stroke-miterlimit="10" x1="1417.79" y1="361.36" x2="1405.35" y2="361.67"/>
+		<line id="pf-loc-escalator" fill="none" stroke="#C60000" stroke-width="3" stroke-miterlimit="10" x1="1417.79" y1="361.36" x2="1405.35" y2="361.67"/>
 	
 		<line id="p-loc-noname" fill="none" stroke="#C60000" stroke-width="3" stroke-miterlimit="10" x1="1033.52" y1="501.52" x2="1016.38" y2="501.52"/>
 	
