@@ -518,8 +518,8 @@
         },
         {
           "id": "loc-penelope",
-          "title": "بنلوپه",
-          "description": "بنلوپه",
+          "title": "پنلوپه",
+          "description": "پنلوپه",
           "x": "0.8234",
           "y": "0.4733",
           "style": "dark",
@@ -1468,6 +1468,16 @@
           "description": "",
           "x": "0.1636",
           "y": "0.4143",
+          "style": "dark",
+          "action": "default",
+          "pin": "hidden"
+        },
+        {
+          "id": "loc-diamondfoodcourt",
+          "title": "فودکورت الماس",
+          "description": "",
+          "x": "0.8204",
+          "y": "0.3747",
           "style": "dark",
           "action": "default",
           "pin": "hidden"
@@ -4081,6 +4091,27 @@
           "pin": "hidden"
         }
       ]
+    },
+    {
+      "id": "third-floor",
+      "title": "G3",
+      "map": "maps/Map-G3.svg",
+      "minimap": "",
+      "locations":[]
+    },
+    {
+      "id": "first-parking-floor",
+      "title": "p1",
+      "map": "maps/Map-p1.svg",
+      "minimap": "",
+      "locations": []
+    },
+    {
+      "id": "ground-floor-parking",
+      "title": "G0P",
+      "map": "maps/Map-G0P.svg",
+      "minimap": "",
+      "locations": []
     }
   ]
 }
